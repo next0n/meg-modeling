@@ -1,0 +1,6 @@
+MEG Signal Modeling
+-------------------
+
+This repository includes code for modeling MEG signals. I'm generally using
+the data set at http://www.cis.hut.fi/icann2011/meg/measurements.html in
+my experiments.
